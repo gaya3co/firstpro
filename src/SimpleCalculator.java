@@ -17,7 +17,7 @@ import java.util.Scanner;
 
         switch (op) {
             case '+':
-                result = a + b;
+                result = a + b; //add
                 break;
             case '-':
                 result = a - b;
