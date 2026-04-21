@@ -33,7 +33,7 @@ import java.util.Scanner;
                  return;
          }
 
-         System.out.println("Result: " + result);
+         System.out.println("Result: " + result);//print result
      }
  }
 
